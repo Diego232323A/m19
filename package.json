@@ -1,0 +1,14 @@
+{
+    "name": "room_service",
+    "version": "1.0.0",
+    "description": "Microservice for managing hotel rooms",
+    "main": "roomService.js",
+    "scripts": {
+      "start": "node roomService.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0"
+    }
+  }
+  
